@@ -24,5 +24,9 @@ which is my email, then it should that I could connect remotely.
 ---
 
 ## Trying Some Commands
+
+* I tried to use the command of cd and cd ~, but nothing appeard, then
+* I tried to use the command of ls -lat for the command
+
 ![Image](command.jpg)
 ---
