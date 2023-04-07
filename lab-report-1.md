@@ -25,6 +25,8 @@ ssh yiz110@ieng6.ucsd.edu
 ```
 which is my email, then it should that I could connect remotely.
 
+* Then when I connect to remote, it showed me how what server am I in and how many people are in the server.
+
 ![Image](login.jpg)
 ---
 
