@@ -1,7 +1,6 @@
 # lab1 report
 
-Here is the screenshot of what I did in the lab.
-## and *installing VScode
+## and * installing VScode
 
 Here I just took a screenshot of the VScode that already installed last quarter.
 ![Image](vscode.jpg)
