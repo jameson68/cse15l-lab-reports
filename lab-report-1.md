@@ -3,6 +3,7 @@
 ## installing VScode
 
 Here I just took a screenshot of the VScode that already installed last quarter.
+
 ![Image](vscode.jpg)
 ---
 
