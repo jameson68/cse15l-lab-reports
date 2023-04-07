@@ -28,6 +28,7 @@ which is my email, then it should that I could connect remotely.
 * Then when I connect to remote, it showed me how what server am I in and how many people are in the server.
 
 ![Image](login.jpg)
+
 ---
 
 ## Trying Some Commands
@@ -36,4 +37,7 @@ which is my email, then it should that I could connect remotely.
 * Tried to use the command of ls -lat for the command
 
 ![Image](command.jpg)
+
+* Also I tried to logout from the remote server, and I tried the command of ls -lat, and found out that it will actually show my my file on my laptop instead of the lab server.
+
 ---
