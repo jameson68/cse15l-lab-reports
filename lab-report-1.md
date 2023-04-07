@@ -1,11 +1,12 @@
 # lab1 report
 
 Here is the screenshot of what I did in the lab.
-## * installing VScode
+## and *installing VScode
+
 Here I just took a screenshot of the VScode that already installed last quarter.
 ![Image](vscode.jpg)
 ---
-## * Remotely Connecting
+## and * Remotely Connecting
 Here for the part of remotely connecting, what I did is that I tried to use the command of 
 ```
 # code block
@@ -20,6 +21,6 @@ which is my email, then it should that I could connect remotely.
 
 ![Image](login.jpg)
 ---
-## * Trying Some Commands
+## and * Trying Some Commands
 ![Image](command.jpg)
 ---
