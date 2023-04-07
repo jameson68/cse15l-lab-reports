@@ -23,7 +23,7 @@ so I used the command of
 # input command
 ssh yiz110@ieng6.ucsd.edu
 ```
-which is my email, then it should that I could connect remotely.
+which is my email, then I could connect remotely by entering my password.
 
 * Then when I connect to remote, it showed me how what server am I in and how many people are in the server.
 
@@ -32,6 +32,14 @@ which is my email, then it should that I could connect remotely.
 ---
 
 ## Trying Some Commands
+
+There are many command that we coould try:
+1. cd ~
+2. cd 
+3. ls -lat
+4. ls -a
+5. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+6. and so on
 
 * Tried to use the command of cd and cd ~, but nothing appeard, then
 * Tried to use the command of ls -lat for the command
