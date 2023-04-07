@@ -10,12 +10,17 @@
 ## Remotely Connecting
 * For the part of remotely connecting, what I did is that I tried to use the command of 
 ```
-# code block
+# input command
 ssh cs15lsp23ng@ieng6.ucsd.edu
 ```
-, but somehow it said 'Permission denied'. So I used the command of 
+, but somehow it showed 
 ```
-# code block
+# output command
+Permission denied
+```
+so I used the command of 
+```
+# input command
 ssh yiz110@ieng6.ucsd.edu
 ```
 which is my email, then it should that I could connect remotely.
