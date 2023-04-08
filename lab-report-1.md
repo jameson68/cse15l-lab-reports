@@ -46,6 +46,6 @@ There are many command that we coould try:
 
 ![Image](command.jpg)
 
-* Also I tried to logout from the remote server, and I tried the command of ls -lat, and found out that it will actually show my my file on my laptop instead of the lab server.
+* Also I tried to logout from the remote server by using Ctrl-D, and I tried the command of ls -lat, and found out that it will actually show my my file on my laptop instead of the lab server.
 
 ---
