@@ -3,6 +3,7 @@
 ## installing VScode
 
 * I just took a screenshot of the VScode that already installed last quarter.
+* But the installation website link for it is [link](https://code.visualstudio.com/download)
 
 ![Image](vscode.jpg)
 ---
@@ -13,7 +14,7 @@
 # input command
 ssh cs15lsp23ng@ieng6.ucsd.edu
 ```
-, but somehow it showed 
+in the terminal of vscode to log myself into the remote, but somehow it showed 
 ```
 # output command
 Permission denied
@@ -41,8 +42,19 @@ There are many command that we coould try:
 5. cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
 6. and so on
 
-* Tried to use the command of cd and cd ~, but nothing appeard, then
-* Tried to use the command of ls -lat for the command
+* Tried to use the command of 
+```
+#input command
+cd
+```
+and
+```
+#input command
+cd~
+```
+* , the command of cd in java is meaing of "change directory", it will allow us to change from current directory to another directory,
+* but nothing appeard, then
+* Tried to use the command of ls -lat for the command, the command of ls mean that it will list our all the files in the directory for us, and 
 
 ![Image](command.jpg)
 
