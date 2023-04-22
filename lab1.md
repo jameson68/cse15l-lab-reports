@@ -63,7 +63,7 @@ for the command, the command of ls mean that it will list our all the files in t
 
 ![Image](chatgpt ls-lat.jpg)
 
-* Also, here is the screenshot of the 
+* Also, here is the screenshot of the list file is here.
 ![Image](command.jpg)
 
 * Also I tried to logout from the remote server by using Ctrl-D, and I tried the command of ls -lat, and found out that it will actually show my my file on my laptop instead of the lab server.
