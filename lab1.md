@@ -34,7 +34,7 @@ which is my email, then I could connect remotely by entering my password.
 
 ## Trying Some Commands
 
-There are many command that we coould try:
+There are many command that we could try:
 1. cd ~
 2. cd 
 3. ls -lat
@@ -52,14 +52,14 @@ and
 #input command
 cd~
 ```
-, the command of cd in java is meaing of "change directory", it will allow us to change from current directory to another directory,
+in the terminal, the command of cd in java is meaing of "change directory", it will allow us to change from current directory to another directory,
 * but nothing appeard, then
 * Tried to use the command of 
 ```
 #input command
 ls -lat 
 ```
-for the command, the command of ls mean that it will list our all the files in the directory for us, and thanks to the sharing from ChatGPT of sharing the meaning of what "ls -lat" command really means, it says that "the command ls -lat would list files and directories in a long format, including hidden files, sorted by modification time in descending order (most recent first)", and here is the [link](https://chat.openai.com/) of where I got the imformation from.
+for the command in the terminal, the command of ls mean that it will list our all the files in the directory for us, and thanks to the sharing from ChatGPT of sharing the meaning of what "ls -lat" command really means, it says that "the command ls -lat would list files and directories in a long format, including hidden files, sorted by modification time in descending order (most recent first)", and here is the [link](https://chat.openai.com/) of where I got the imformation from.
 
 * Also, here is the screenshot of the list file is here.
 ![Image](command.jpg)
