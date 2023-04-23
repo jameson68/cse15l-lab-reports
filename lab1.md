@@ -59,9 +59,7 @@ cd~
 #input command
 ls -lat 
 ```
-for the command, the command of ls mean that it will list our all the files in the directory for us, and thanks to the sharing from ChatGPT of sharing the meaning of what "ls -lat" command really means, it says that "the command ls -lat would list files and directories in a long format, including hidden files, sorted by modification time in descending order (most recent first)", and here is the screen shot below.
-
-![Image](chatgpt ls-lat.jpg)
+for the command, the command of ls mean that it will list our all the files in the directory for us, and thanks to the sharing from ChatGPT of sharing the meaning of what "ls -lat" command really means, it says that "the command ls -lat would list files and directories in a long format, including hidden files, sorted by modification time in descending order (most recent first)", and here is the [link](https://chat.openai.com/) of where I got the imformation from.
 
 * Also, here is the screenshot of the list file is here.
 ![Image](command.jpg)
