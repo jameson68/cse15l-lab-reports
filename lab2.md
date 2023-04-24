@@ -30,7 +30,7 @@ I am choosing the code of ReverseInPlace:
 2. The second test didn't run into a failure.
 * The bug, as the before-and-after code change required to fix it:
 
-1. The before code as shown below:
+1.The before code as shown below:
 ```
 #code block
  static void reverseInPlace(int[] arr) {
@@ -39,7 +39,7 @@ I am choosing the code of ReverseInPlace:
     }
   }
 ```
-2. The after code as shown below:
+2.The after code as shown below:
 ```
 #code block
  static void reverseInPlace(int[] arr) {
@@ -50,7 +50,8 @@ I am choosing the code of ReverseInPlace:
    }
  }
 ```
-3. Explanations:
+3.Explanations:
+
 	The original code is facing a problem that it will flip the first half of the array successfully, but it will have a problem with the second last part, it will not successfully reverse it, because it will set the last part just like the first part of the array, for example, it will become {7, 6, 5, 4, 5, 6, 7}.
 	---
 	The changes I did is that I firstly divide the integer array into two parts, it allow me to work with separate two parts. 
