@@ -41,7 +41,8 @@ class StringServer {
     }
 }
 ```
-And here is what I did for my 
+And here is the screenshot:
+
 
 ---
 # Part 2
