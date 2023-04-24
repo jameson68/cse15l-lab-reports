@@ -25,6 +25,6 @@ I am choosing the code of ReverseInPlace:
 	}
 ```
 * The symptom, as the output of running the tests:
-
+![Image](symptom.jpg)
 
 # Part 3
