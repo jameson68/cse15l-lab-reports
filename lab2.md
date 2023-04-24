@@ -51,7 +51,6 @@ I am choosing the code of ReverseInPlace:
  }
 ```
 3. Explanations:
-	---
 	The original code is facing a problem that it will flip the first half of the array successfully, but it will have a problem with the second last part, it will not successfully reverse it, because it will set the last part just like the first part of the array, for example, it will become {7, 6, 5, 4, 5, 6, 7}.
 	---
 	The changes I did is that I firstly divide the integer array into two parts, it allow me to work with separate two parts. 
