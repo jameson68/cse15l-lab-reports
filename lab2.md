@@ -1,5 +1,6 @@
 # Part 1
 
+---
 # Part 2
 I am choosing the code of ReverseInPlace:
 
@@ -58,4 +59,6 @@ The original code is facing a problem that it will flip the first half of the ar
 The changes I did is that I firstly divide the integer array into two parts, it allow me to work with separate two parts. 
 So For Example, if I input example array of {1,2,3,4,5,6,7}, arr.length will be 7, and when I divided by 2 in the for loop, it will give me 4, so following the code, ```int temp``` will be 1, and then ```arr[i] = arr[7 - 0 - 1]``` will be stored in the value of ```arr[0] = 7```, and then for the third line in the for loop, we set te last part of the array to be the original first part of the array, which mean that ```arr[7 - 0 - 1] = 1```, then at index 6, the value will be stored as 1, so after the first for loop, we will get a temparary array of {7, null, null, null, null, null, 1}.
 So on and so forth, we will eventually flip the array to get the reverse order.
+
+---
 # Part 3
