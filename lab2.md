@@ -42,7 +42,13 @@ class StringServer {
 }
 ```
 And here is the screenshot:
+![Image](Hello.jpg)
+1. the method of handleRequest are being called, and I also compile the java file of StringSearch and Server file, and the output command is that `Server Started! Visit http://localhost:4000 to visit.`
+2. and at the beginning, and as we added the value of `/add-message?s=Hello` behind the `4000`, and it will add `Hello` to the server by handleRequest method.
+3. when we refresh the page, we will see that it added `Hello` to the website page.
+![Image](Howareyou.jpg)
 
+it is the same kind of procedure as the first one, it will just basically add `How are you` to the next line, the reason why it is added to the next line is because of the command `"\n"`.
 
 ---
 # Part 2
@@ -106,3 +112,5 @@ So on and so forth, we will eventually flip the array to get the reverse order.
 
 ---
 # Part 3
+
+I learned something in lab 3, when we are doing the part that the class path when we put in the command line is actually worked separate for mac and window terminals. Also by working with a teammate, he helped me to clearify more things that I am not sure in the past, just like the part for writting junit testing.
