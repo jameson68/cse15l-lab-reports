@@ -2,7 +2,7 @@
 ---
 
 **Acknowledgement**
-All the commands I looked up come from geeksforgeeks.com [link] (https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+All the commands I looked up come from geeksforgeeks.com [link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
 
 ---
 
