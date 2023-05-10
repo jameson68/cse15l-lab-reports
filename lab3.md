@@ -21,6 +21,6 @@ What I did in the terminal is that I login to my ieng6 account by using command 
 3. `grep -n`,
 * What I did here is that I use `-n` to find the certain word that is in `""` in the command line of certain text file name after the chosen word, also it will show the line number out, as shown below in the jpg.
 ![Image](grep -n.jpg)
-4.`grep -w`, 
+4. `grep -w`, 
 * What I did here is that I use `-w` to find the certian word that is in `""` in the command line of in certain text file, and it will show all the words that even is part of a whole word. as shown below in the jpg.
 ![Image](grep -w.jgp)
