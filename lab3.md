@@ -12,8 +12,13 @@ What I did in the terminal is that I login to my ieng6 account by using command 
 ---
 
 ## four command line option I chose for grep as shown below
-1. grep -c, 
+1. `grep -c`, 
+* What I did here is that I use `-c` to find certain number of lines that contains the word that I am looking for in `""`, and after that I command it to find it in certain text file and it will privide me with how many lines contain it, as shown below in the jpg.
 ![Image](grep -c.jpg)
-2. grep -l,
+2. `grep -l`,
+* What I did here is that I use `-l` to find the certain word in which file of the current directory in `""`, and the output will provide me with which and how many files that contain this word, as shown below in the jpg. 
 ![Image](grep -l.jpg)
-
+3. `grep -n`,
+* What I did here is that I use `-n` to find the certain word that is in `""` in the command line of certain text file name after the chosen word, also it will show the line number out, as shown  below in the jpg.
+![Image](grep -n.jpg)
+4.
