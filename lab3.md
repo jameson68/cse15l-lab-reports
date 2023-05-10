@@ -13,5 +13,5 @@ What I did in the terminal is that I login to my ieng6 account by using command 
 
 ## four command line option I chose for grep as shown below
 1. grep -c, 
-[Image](grep -c.jpg)
+![Image](grep -c.jpg)
 
