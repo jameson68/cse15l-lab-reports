@@ -60,6 +60,13 @@ and here it is successfully compiled, but this has a error saying that file not 
 
 * description of what to do to fix it
 
+First of all, I think the problem is coming out from your code from grade.sh, on line from line 13-18, which is in the then and else statement, you should switch them in order to make it work as we found it and print out it exists instead of print our file not found, you just didn't flip it. So it should be `then echo "......exits" else "not found....`, overall just simply switch the code in `then` and `else` will do.
+
+---
+
+# part 2 - Reflection
+
+before the second half of the quarter, I don't even know what a shell is and I don't know how to use vim and etc method to do it. Also I learned how to write a gradescope testing which is really cool. I think these command will actually help me to save time a lot in the future coding.
 
 
 
