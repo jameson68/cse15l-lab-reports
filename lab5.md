@@ -20,7 +20,7 @@ I am trying to run the bash, and it suppose to have the result that file exist, 
 
 c. Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
-![Image](bashfailfirst.jpg)
+![Image](bashhalf.jpg)
 
 ---
 
