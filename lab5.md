@@ -43,15 +43,20 @@ and here it is successfully compiled, but this has a error saying that file not 
 
 * file&directory structure
 
-![Image]()
+![Image](filestructure.jpg)
 
 * contents of each file before fixing bug
 
-![Image]()
+![Image](listexamples.jpg)
+![Image](server.jpg)
+![Image](test.jpg)
+![Image](gradeserver1.jpg)
+![Image](gradeserver2.jpg)
+
 
 * full command line you ran to trigger the bug
 
-![Image]()
+![Image](bashgrade.jpg)
 
 * description of what to do to fix it
 
