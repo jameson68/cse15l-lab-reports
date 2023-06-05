@@ -35,9 +35,26 @@ I couldn't see all of your code in the grade.sh, I think it's something wrong in
 student response:
 Hi! sorry I didn't screenshot all of it. Here is all of my code.
 ![Image](bashfailedall.jpg)
-
+and here it is successfully compiled, but this has a error saying that file not found, which is not true here, but I don't know how to fix it.
 
 ---
+
+3. All the information
+
+* file&directory structure
+
+![Image]()
+
+* contents of each file before fixing bug
+
+![Image]()
+
+* full command line you ran to trigger the bug
+
+![Image]()
+
+* description of what to do to fix it
+
 
 
 
