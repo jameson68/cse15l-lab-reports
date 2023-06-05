@@ -71,15 +71,3 @@ before the second half of the quarter, I don't even know what a shell is and I d
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-3. 
