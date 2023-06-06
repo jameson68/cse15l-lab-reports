@@ -37,8 +37,8 @@
 8. Run the tests, demonstrating that they now succeed
 
 * key pressed:
-               `bash<space>test.sh<enter> `(somehow I got the error here, I don't know what to do with it)
-![Image](runthetestafter.jpg)
+               `bash<space>test.sh<enter> `
+![Image](bashtest.jpg)
 
 ---
 
