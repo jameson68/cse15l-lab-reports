@@ -45,7 +45,7 @@
 9. Commit and push the resulting change to your Github account
 
 * key pressed:
-               ` `
-![Image](gitclone.jpg)
+               `git<space>clone<space>git<shift>2github.com<shift>;jameson68/lab7.git`
+![Image](gitfinal.jpg)
 
 ---
